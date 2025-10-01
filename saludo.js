@@ -1,5 +1,5 @@
-let nombre;
-let apellido1;
-let apellido2;
+let nombre = "Mónica";
+let apellido1 = " Cortés";
+let apellido2 = " Aguaded";
 
-console.log(nombre, apellido1,apellido2);
+console.log("Hola "  + nombre, apellido1,apellido2 + "!");
